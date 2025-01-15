@@ -1,0 +1,2 @@
+This is just a simple example that was used in the laboratory. What happens is when you run **./cmdlineArgsDemo**, it will look for the next values with spaces within them to add to your code. Think of these values as the parameters/inputs. 
+There exists a argc, and a argv. argc is for the counter (counting how many things you wrote down after the line ./cmdlineArgsDemo) and there is a argv that will store them all into a array and then will be used in the code.

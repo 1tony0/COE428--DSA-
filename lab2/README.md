@@ -7,7 +7,7 @@ to the initial invocation.
 4. Eleven more recursive calls to towers() will be invoked for the second recursive call. The second recursive call to towers() will be invoked will be towers(1,3,1) where x(number of disks) =1, 
 y(from destination) = 3 and z(to destination) = 1.
 If (8,1,2)  is invoked:
- It can be seen that 255 lines of code will be printed to stdout when towers(8,1,2) is invoked.
+It can be seen that 255 lines of code will be printed to stdout when towers(8,1,2) is invoked.
 
 
 
